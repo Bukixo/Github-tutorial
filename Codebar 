@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+  <style>
+      @media screen and (max-width:600px) {
+    table[class="container-table"] {
+        width: 100% !important;
+    }
+        table[class="logo"] {
+          margin-left: 100% !important;
+        }
+}
+  </style>
+ <table align="center" style="border:black solid 0px; cellpadding=0 cellspacing=0 width= 600 class="container-table">
+
+    <tr>
+      <td bgcolor="#242E2E" style="padding: 20px 0 15px 0;">
+
+        <a href="http://www.brandsxcl.com/" target="_blank">
+
+          <a href="http://www.brandsxcl.com/" target="_blank"><img src="http://i63.tinypic.com/15ppkib.jpg" border="0" alt="Visit Us!" style="margin-left: 300px" class="logo" /a>
+        </a>
+      </td>
+    </tr>
+    <tr>
+
+      <td bgcolor="#ffffff" style="padding: 40px 30px 40px 30px;">
+
+        <table border="0" cellpadding="0" cellspacing="0" width="100%"
+
+          <tr>
+             <td style="color: #153643; font-family: Arial, sans-serif; font-size: 24px;">
+                <b>Dear Client,</b>
+             </td>
+          </tr>
+          <tr>
+            <td style="padding: 20px 0 30px 0; color: #153643; font-family: Arial, sans-serif; font-size: 16px; line-height: 25px;">
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel scelerisque dui. Maecenas vestibulum tellus at massa auctor tincidunt. In commodo tortor nec nisi congue, tristique efficitur enim tristique. Pellentesque magna mi, viverra sed condimentum nec, maximus in ex. Fusce venenatis ipsum et efficitur lobortis.Donec lorem risus, hendrerit quis dolor et, blandit porttitor purus. Nulla efficitur magna et lacus laoreet rhoncus. Ut at aliquam velit, nec fringilla est. </p>
+
+
+                <p>Nunc sit amet quam purus. Sed ac lectus sit amet nunc scelerisque sagittis. Cras quis dolor vel nisl placerat posuere vitae in purus. Sed a iaculis magna. Donec mollis est neque, sit amet accumsan massa commodo eget. Pellentesque vitae venenatis lacus, a malesuada dolor.</p>
+
+               </p>Pellentesque quis mauris lorem. Fusce est ante, varius eget enim eget, iaculis scelerisque eros. Nam vel metus non ex aliquam aliquam. Nulla facilisi. Aliquam vestibulum quam at ante interdum dapibus.</p>
+
+               <p>Yours Sincerely,</p>
+            </td>
+          </tr>
+          <tr>
+           <td style="padding: 20px 0 30px 0; color: #153643; font-family: Arial, sans-serif; font-size: 16px; line-height: 25px;">
+                  <p>Previous Clients,</p>
+           </td>
+          </tr>
+          <tr>
+             <td>
+                <img src="http://i67.tinypic.com/2ngy6pw.jpg" border="0" alt="Our Previous Clients" width="100%" height="100%" style="margin-left:5px"/a>
+             </td>
+          </tr>
+     </table>
+
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#242E2E" style="padding: 30px 30px 30px 30px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+  <td align="middle" style="color: #ffffff; font-family: Arial, sans-serif; font-size: 14px;">
+ BRANDSXCL © 2016<br/>
+
+  </td>
+      </td>
+    </tr>
+
+
+  </table>
+
+
+
+</body>
+</html>
